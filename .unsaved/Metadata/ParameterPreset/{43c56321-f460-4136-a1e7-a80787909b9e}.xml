@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{43c56321-f460-4136-a1e7-a80787909b9e}">
+		<property name="name">
+			<value>isbowheld</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7a8bc47e-0a88-4b31-8db6-a01006c65208}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{88e0abfd-a33d-4ee7-b073-8fdc19db7861}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{88e0abfd-a33d-4ee7-b073-8fdc19db7861}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>false</value>
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
