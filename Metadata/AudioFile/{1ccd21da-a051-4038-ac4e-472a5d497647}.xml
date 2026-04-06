@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{b062da7c-51d6-44aa-afa3-6da904e0c9fc}">
+	<object class="AudioFile" id="{1ccd21da-a051-4038-ac4e-472a5d497647}">
 		<property name="assetPath">
-			<value>click1.wav</value>
+			<value>arrow3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.18646258503401361</value>
+			<value>0.91460317460317464</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{76bb0b9c-08b5-4c42-8d1f-32f0932bd9d9}</destination>

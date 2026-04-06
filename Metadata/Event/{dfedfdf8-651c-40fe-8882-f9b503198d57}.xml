@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dfedfdf8-651c-40fe-8882-f9b503198d57}">
 		<property name="name">
-			<value>bow</value>
+			<value>bowstretch</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -95,7 +95,6 @@
 	</object>
 	<object class="MultiSound" id="{f78819cb-9a81-4a49-a923-55b86e96520e}">
 		<relationship name="sounds">
-			<destination>{f6aeee83-dc3f-48df-9cfb-304e5f8f8171}</destination>
 			<destination>{dea42ef9-a843-4cef-bbe6-1ed4d87dc053}</destination>
 		</relationship>
 	</object>
@@ -111,7 +110,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{bb0d0ae6-2160-44f0-88fd-d867ec8d46c4}" />
-	<object class="ProgrammerSound" id="{f6aeee83-dc3f-48df-9cfb-304e5f8f8171}" />
 	<object class="MultiSound" id="{dea42ef9-a843-4cef-bbe6-1ed4d87dc053}">
 		<property name="startOffset">
 			<value>27</value>

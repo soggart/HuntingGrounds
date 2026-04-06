@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{f53704fb-58f8-43f0-b412-14e7facd69ce}">
+	<object class="AudioFile" id="{5948dd2e-e289-46fc-9359-883fa3c47e86}">
 		<property name="assetPath">
-			<value>bowstretch1.wav</value>
+			<value>arrow1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>4.7153061224489798</value>
+			<value>0.4076190476190476</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{76bb0b9c-08b5-4c42-8d1f-32f0932bd9d9}</destination>
