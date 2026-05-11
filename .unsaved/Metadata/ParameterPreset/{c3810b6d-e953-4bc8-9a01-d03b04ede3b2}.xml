@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c3810b6d-e953-4bc8-9a01-d03b04ede3b2}">
+		<property name="name">
+			<value>bird_density</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7a8bc47e-0a88-4b31-8db6-a01006c65208}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c6e2786b-27b9-45a5-94a6-8605f2449e8d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c6e2786b-27b9-45a5-94a6-8605f2449e8d}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>20</value>
+		</property>
+	</object>
+</objects>

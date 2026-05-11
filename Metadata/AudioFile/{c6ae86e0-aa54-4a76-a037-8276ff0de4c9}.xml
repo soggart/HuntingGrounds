@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c6ae86e0-aa54-4a76-a037-8276ff0de4c9}">
+		<property name="assetPath">
+			<value>atv2/stomp2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7166666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{76bb0b9c-08b5-4c42-8d1f-32f0932bd9d9}</destination>
+		</relationship>
+	</object>
+</objects>
